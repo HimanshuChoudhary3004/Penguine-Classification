@@ -1,2 +1,4 @@
 venv/
 creating_resources.py
+automl.log
+azureml_automl.log

@@ -1,1 +1,3 @@
 venv/ 
+automl.log
+azureml_automl.log
